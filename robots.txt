@@ -1,0 +1,2 @@
+User-agent: *
+Sitemap: https://mundanepeo.github.io/sitemap.xml
